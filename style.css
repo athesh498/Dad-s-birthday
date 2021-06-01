@@ -1,0 +1,66 @@
+h1{
+    text-align: left;
+    color: red;
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    left: 50px;
+    
+}
+.header{
+ background-image: url("https://www.wideopeneats.com/wp-content/uploads/2020/10/birthday-cake2.png");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.birth{
+background-image: url("images/bg-2.jpg");
+    background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+h2{
+font-size: 50px;
+text-align: center;
+padding-top: 250px;
+}
+.photo{
+background-color: #165CA8;
+
+}
+.phot-1{
+    width: 250px;
+
+}
+.phot-2{
+    width: 300px;
+    padding-left: 80%;
+
+}.phot-3{
+    width: 250px;
+    padding-left: 10px;
+
+}.phot-4{
+    width: 350px;
+  padding-left: 75%;
+}
+h3{
+    text-align: center;
+    font-size: 15px;
+    color: skyblue;
+    font-size: 50px;
+}
+h4{
+    text-align: center;
+    font-size: 15px;
+
+} 
+h5{
+    text-align: center;
+    font-size: 15px;
+color: wheat;
+font-family: 'Oswald', sans-serif;
+
+} 
+footer{
+    background-color: black;
+}
